@@ -52,7 +52,30 @@ Git | GitHub | IntelliJ IDEA | VS Code | Postman
 
 ---
 
-### 🌐 Full Stack Projects
+### 🚺 Women Safety Application (Hackathon Project)
+- Built an innovative women safety solution for emergency situations
+- Focused on real-time assistance and user safety
+- Developed as part of national-level competitions
+
+🏆 Project recognized in hackathons
+
+---
+
+### 🎥 Zoom Clone
+- Built a video conferencing application inspired by Zoom
+- Implemented meeting creation and real-time communication features
+- Strengthened understanding of full-stack development concepts
+
+---
+
+### 🏨 WanderLust – Hotel Booking Website
+- Full-stack hotel booking web application
+- Features include hotel listing, booking flow, and UI design
+- Focused on user experience and responsive design
+
+---
+
+### 🌐 Other Full Stack Projects
 - Quora-style Post Sharing App (Node.js, Express, EJS)
 - Patient Medicine & Appointment Tracking System (React)
 - Spotify Web UI Clone (HTML, CSS, Bootstrap)
@@ -70,6 +93,7 @@ Git | GitHub | IntelliJ IDEA | VS Code | Postman
 
 - 🥇 Winner – National-level Hackathon (Project under patent process)
 - 🥉 2nd Place – Zenovation Hackathon (150+ teams)
+- 🏅 Finalist – Smart India Hackathon (SIH)
 - and many more...
 
 ---
