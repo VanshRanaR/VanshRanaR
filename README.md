@@ -21,9 +21,14 @@ Docker • Kubernetes • Minikube • Git & GitHub
 ---
 
 ## 🏆 Achievements
-🥇 National-level Hackathon Winner  
-🥉 Zenovation Hackathon (150+ teams)  
-🏅 Smart India Hackathon Finalist
+
+🥇 Winner, National Hackathon Navonmesh 2.0 (₹1 Lakh Prize, 1500+ participants) 
+🥇 Tekathon 3.0 Best Project Winner, Chandigarh University 
+🥇 Best Project Winner, IBM Day, Chandigarh University 
+🥈 2nd Place, Project Expo 2025 (University Level) 
+🥉 Runner-up, Zenovation Hackathon 2024 (150+ teams) 
+🏅 Academic Excellence Award, Chandigarh University 
+
 
 ---
 
