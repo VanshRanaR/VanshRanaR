@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vansh Rana
+#  Hi, I'm Vansh Rana
 
 💻 Software Developer | 🚀 Full Stack | 🤖 AI/ML | ☁️ DevOps Learner  
 🎓 CSE (AI & ML) Student from India.
