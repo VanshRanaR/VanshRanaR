@@ -16,7 +16,7 @@ Docker • Kubernetes • Minikube • Git & GitHub
 - Women Safety App (Hackathon)
 - Zoom Clone
 - WanderLust Hotel Booking Website
-- Quora Clone • Spotify UI Clone
+- Quora Clone • Spotify UI Clone.
 
 ---
 
