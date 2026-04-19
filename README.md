@@ -32,7 +32,6 @@ Docker • Kubernetes • Minikube • Git & GitHub
 
 ---
 
-📊 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshRanaR&show_icons=true&theme=tokyonight)
 
 🔗 GitHub: https://github.com/VanshRanaR  
 🔗 LinkedIn: https://www.linkedin.com/in/vansh-rana
