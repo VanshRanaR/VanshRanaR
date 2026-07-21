@@ -1,4 +1,4 @@
-# Hi, I'm Vansh Rana
+# Hi there, I'm Vansh Rana 👋
 
 <h3 align="center">Software Developer | Full Stack Developer | AI/ML Enthusiast | DevOps Learner</h3>
 
@@ -8,170 +8,120 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Computer Science Engineering Graduate specializing in Artificial Intelligence & Machine Learning.
-- Software Developer with experience in Full Stack Web Development.
-- Interested in Backend Development, Distributed Systems, Cloud Computing, and DevOps.
-- Passionate about building scalable applications and solving real-world problems.
-- Always exploring new technologies and best engineering practices.
+- 🎓 B.E. (Hons.) Computer Science Engineering (AI & ML)
+- 💼 Software Developer
+- 🌱 Currently learning **System Design, DevOps, and Cloud Technologies**
+- 💻 Passionate about Backend Development, Full Stack Applications, and AI
+- 🚀 Love participating in Hackathons and Building Real-world Projects
+- 📫 Reach me at **LinkedIn** or **GitHub**
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-- Java
-- Python
-- JavaScript
-- SQL
-- C++
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Database
 
-- MongoDB
-- MySQL
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Cloud
 
-- Docker
-- Kubernetes
-- Minikube
-- Git
-- GitHub
-- Linux
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge)
 
 ### Tools
 
-- VS Code
-- Postman
-- IntelliJ IDEA
-- Android Studio
+Git • GitHub • Postman • VS Code • Linux
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Software Developer
 
-Working on healthcare applications with a focus on scalable backend systems and API development.
-
-Key responsibilities include:
-
-- REST API Development
-- Backend Development using Node.js and NestJS
-- Frontend Development using React.js
-- API Integration
+- Building scalable Healthcare applications
+- Working on REST APIs
+- Backend Development using Node.js & NestJS
+- Frontend Development with React
+- API Integration & Testing
 - Performance Optimization
 - MongoDB Database Design
-- Testing and Debugging
-- Git Version Control
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Women Safety App
 
-An AI-powered emergency response application developed during a national hackathon.
-
-**Features**
-
-- Emergency SOS
-- Live Location Sharing
-- AI-based Assistance
-- Real-time Notifications
-
----
+- National Hackathon Winning Project
+- AI-powered emergency response system
+- Real-time location tracking
 
 ### WanderLust
 
-A full-stack hotel booking platform.
-
-**Tech Stack**
-
-- Node.js
-- Express.js
-- MongoDB
-- Bootstrap
-
-**Features**
-
+- Full Stack Hotel Booking Platform
 - Authentication
-- Hotel Listings
-- Booking Management
-- Image Upload
 - CRUD Operations
-
----
+- Cloud Image Upload
 
 ### Zoom Clone
 
-A real-time video conferencing application.
-
-**Features**
-
-- Video Calling
-- Audio Calling
-- Screen Sharing
-- Chat Functionality
-
----
+- Video Conferencing Application
+- Real-time Communication
 
 ### Kubernetes Nginx Deployment
 
-Containerized deployment using Docker and Kubernetes on Minikube.
-
-**Features**
-
-- Docker Containers
+- Containerized deployment using Docker
 - Kubernetes Pods
-- Deployments
 - Services
-- Scaling
-
----
+- Minikube Cluster
 
 ### Quora Clone
 
-A question-and-answer platform.
-
-**Features**
-
-- User Authentication
-- CRUD Operations
-- Responsive Interface
+- Complete CRUD Application
+- Authentication
+- Responsive UI
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-- Winner — National Hackathon Navonmesh 2.0 (₹1,00,000 Prize, 1500+ Participants)
-- Best Project Winner — Tekathon 3.0, Chandigarh University
-- Best Project Winner — IBM Day, Chandigarh University
-- 2nd Place — Project Expo 2025
-- Runner-up — Zenovation Hackathon 2024
-- Academic Excellence Award — Chandigarh University
+🥇 Winner — National Hackathon Navonmesh 2.0 (₹1,00,000 Prize)
+
+🥇 Best Project Winner — Tekathon 3.0
+
+🥇 Best Project Winner — IBM Day
+
+🥈 2nd Place — Project Expo 2025
+
+🥉 Runner-up — Zenovation Hackathon 2024
+
+🏅 Academic Excellence Award
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - System Design
 - Microservices
@@ -179,60 +129,33 @@ A question-and-answer platform.
 - AWS
 - CI/CD
 - Redis
+- Docker
 - Design Patterns
-- Scalable Backend Architecture
 
 ---
 
-## GitHub Statistics
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshRanaR&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshRanaR&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshRanaR&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VanshRanaR&theme=tokyonight"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshRanaR&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VanshRanaR&theme=tokyonight)
 
 ---
 
-## Activity Graph
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshRanaR&theme=tokyo-night"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VanshRanaR)
 
----
-
-## Connect With Me
-
-**GitHub**
-
-https://github.com/VanshRanaR
-
-**LinkedIn**
-
-https://www.linkedin.com/in/vansh-rana
-
-**Email**
-
-your-email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vansh-rana)
 
 ---
 
-## Profile Views
+## 💡 Quote
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=VanshRanaR&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+> "Code. Learn. Build. Repeat."
 
 ---
 
-## Quote
-
-> "Continuous learning and consistent execution are the foundation of great software engineering."
-
----
-
-Thank you for visiting my profile. Feel free to explore my repositories, contribute to open-source projects, or connect with me for collaboration.
+⭐ If you like my work, consider giving a ⭐ to my repositories!
