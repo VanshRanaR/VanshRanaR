@@ -21,14 +21,8 @@ Software Developer building scalable healthcare apps with Node.js, NestJS & Reac
 - **WanderLust** — Full-stack hotel booking platform (auth, CRUD, cloud image upload)
 - **Zoom Clone** — Real-time video conferencing app
 
-### 📈 Stats
-<p align="left">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=VanshRanaR&show_icons=true&theme=tokyonight" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshRanaR&layout=compact&theme=tokyonight" />
-</p>
-
 ### 🌐 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/VanshRanaR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vansh-rana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vanshrana2216/)
 
 > "Code. Learn. Build. Repeat."
